@@ -1,0 +1,25 @@
+#about-me{
+    margin: 0 auto;
+    max-width: 720px;
+    text-align: left;
+  }
+
+  .card {
+    display:flex;
+    margin-top: 40px;
+    font-size: 20px;
+   
+   }
+ 
+   .card-body{
+     width: 300px;
+   margin: 0 auto; 
+   position: static;
+   }
+   #profile-pic{
+      width: 150px;
+     float: left;
+      margin-left: 0;
+      height: 45%;
+      margin: 10px;
+   }
