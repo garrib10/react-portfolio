@@ -1,15 +1,12 @@
 import React from "react";
-import Picture from "../../Images/AboutMe"
+
+
 
 function AboutMe() {
     return (
         <div class="card" id="about-me">
             <div className="about-me">
-            </div>
-            <div class="row">
-                <div class="card-body">
-                    <img src={Picture} className="float-left" id="profile-pic" alt="About Me" />
-                </div>
+           
                 <div className>
                     <p className="about-me-paragraph">
                         <p>
