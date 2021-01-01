@@ -4,7 +4,7 @@ import "./footer.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>Created by Brian Garrity </span>
+      <p>Created by Brian Garrity </p>
     </footer>
   );
 }
