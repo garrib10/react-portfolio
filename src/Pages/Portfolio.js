@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Project from '../Components/Project'
+import Project from '../Component/Project'
 import Projects from "../projects.json";
-import Wrapper from '../components/Wrapper';
+import Wrapper from '../Component/Wrapper';
 
 
 
@@ -35,4 +35,4 @@ return (
 }
 }
 
-export default Portfolio
+export default Portfolio;
