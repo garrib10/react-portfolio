@@ -1,9 +1,10 @@
 import React from 'react';
 import Col from '../Col';
-import Button from '../Button'
+import Button from 'react-bootstrap/Button';
+import Form from 'react-bootstrap/Form';
 
 
-function Form() {
+function ContactForm() {
     return (
         <Form>
             <Form.Row>
@@ -34,4 +35,4 @@ function Form() {
     )
 }
 
-export default Form;
+export default ContactForm;
