@@ -1,22 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import Navbar from 'react-bootstrap/Navbar'
 
 
 function NavBar() {
     return (
-        <NavBar className="navbar fixed-top navbar-light bg-light text-white">
+        <nav className="navbar fixed-top navbar-light bg-light text-white">
 
-            <button
-                className="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup"
-                aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span className="navbar-toggler-icon"></span>
-            </button>
+            
             <section className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <section className="navbar-nav">
                     <Link
@@ -49,7 +39,7 @@ function NavBar() {
                     </Link>
                 </section>
             </section>
-        </NavBar>
+      </nav>
     )
 }
 export default NavBar;
