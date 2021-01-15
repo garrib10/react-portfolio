@@ -1,12 +1,11 @@
 import React from 'react';
-import Form from '../Component/ContactForm';
+
+import ContactForm from '../Component/ContactForm';
 
 
 function Contact (){
     return (
-        <Form>
-
-        </Form>
+        <ContactForm/>
     )
 }
 
