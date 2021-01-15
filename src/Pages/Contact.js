@@ -1,12 +1,18 @@
 import React from 'react';
-
-import ContactForm from '../Component/ContactForm';
+import { Form } from 'react-bootstrap';
+//import Form from '../Component/ContactForm';
 
 
 function Contact (){
     return (
-        <ContactForm/>
+        <div>
+      <h1>Contact Me</h1>
+      <Form/>
+      </div>
+
+      
     )
+
 }
 
 export default Contact; 

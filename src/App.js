@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, } from "react-router-dom";
+import { BrowserRouter as Router,Route,Switch } from "react-router-dom";
 import Nav from "./Component/Nav";
-import AboutMe from "./Component/AboutMe";
 import Footer from "./Component/Footer"
+import About from "./Pages/About"
+import Portfolio from "./Pages/Portfolio"
+import Contact from "./Pages/Contact"
 
 
 function App() {
@@ -11,14 +13,14 @@ function App() {
     <Router>
     <div className="App">
      <Nav/>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <br></br>
-     <AboutMe/>
-     <Footer/>
+            <Switch>
+              <Route exact path="/" component={About} />
+              <Route exact path="/about" component={About} />
+              <Route exact path="/portfolio" component={Portfolio} />
+              <Route exact path="/contact" component={Contact} />
+            </Switch>
     </div>
+    <Footer/>
     </Router>
   );
 }

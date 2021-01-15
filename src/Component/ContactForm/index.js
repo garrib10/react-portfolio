@@ -1,5 +1,5 @@
 import React from 'react';
-import Col from '../Col';
+
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
@@ -8,13 +8,13 @@ function ContactForm() {
     return (
         <Form>
             <Form.Row>
-                <Form.Group as={Col} controlId="formGridName">
+                <Form.Group  controlId="formGridName">
                     <Form.Label>Name</Form.Label>
                     <Form.Control type="Name" placeholder="Enter name"
                         id="name" class="form-text">We'll never share your info with anyone. /</Form.Control>
                 </Form.Group>
 
-                <Form.Group as={Col} controlId="formGridEmail">
+                <Form.Group  controlId="formGridEmail">
                     <Form.Label>Email Address</Form.Label>
                     <Form.Control type="email" placeholder="Email" />
                 </Form.Group>
