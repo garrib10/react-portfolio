@@ -12,7 +12,7 @@ function About() {
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Welcome To My Portfolio</h1>
+            
           </Col>
         </Row>
         <Row>

@@ -6,7 +6,7 @@ import Footer from "./Component/Footer"
 import About from "./Pages/About"
 import Portfolio from "./Pages/Portfolio/Portfolio"
 import Contact from "./Pages/Contact"
-import Home from "./Pages/Home"
+
 
 
 
@@ -16,7 +16,7 @@ function App() {
       <div className="App">
         <Nav />
         <Switch>
-          <Route extact path="/home" component={Home} />
+         
           <Route exact path="/about" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />

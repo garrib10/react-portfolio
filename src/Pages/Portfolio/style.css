@@ -14,7 +14,7 @@
 }
 
 #main {
-    background-color: #b3e6cc;
+    background-color: #eeeeee;
     float: left;
     width: 33%;
     margin: 0;
@@ -51,12 +51,7 @@
         width: 5em;
         display: inline-flex;
     }
-    #friends {
-        margin: 1px;
-        padding: 1px;
-        width: 8em;
-        display: inline-flex;
-    }
+  
 }  
 @media screen and (max-width: 900px) {
     .card { 
@@ -75,12 +70,7 @@
         width: 4.8em;
         font-size: 0.8em;
     }
-    #friends, .animationBtn {
-        margin: 0;
-    
-        margin-right: 1px;
-        font-size: 0.8em;
-    }
+  
 }  
 
 @media screen and (max-width: 600px) {
@@ -95,8 +85,4 @@
         font-size: 1em;
         margin: 5px;
     }
-    #friends, .animationBtn {
-        margin: 5px;
-        font-size: 1em;
-    }  
 }
