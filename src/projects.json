@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Boxoffice Media",
-      "image": "src/Images/Box-Office-Media.png",
+      "image": "/assets/Box-Office-Media.png",
       "description": "Trying to find the best movies and tv shows to watch during your week. With Boxoffice Media, you are able to search for your favorite movies and tv shows with just a click of a button.",
       "utilizes":"HTML,CSS,API,AJAX,Jquery,Javascript, Foundation Formatting.",
       "github":"https://github.com/0216johnsoneric/Boxoffice-Movies",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Employee Timesheet Manager",
-      "image": "src/Images/Employee-Timesheet-Manager.png",
+      "image": "/assets/Employee-Timesheet-Manager.png",
     "description": "This user-friendly application allows employees to adjust hours workeed and submit a timesheet to the administrator. You are able search through departments, and see employees specific timesheets.",
       "utilizes":"API,AJAX,Bootstrap,Express,Express-handlebars,FS,Jquery,MySql,Sequelize,Mocha, and Chai.",
       "github":"https://github.com/Rivenception/P2_Time_Manager",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Code Quiz",
-      "image": "src/Images/Code-Quiz.png",
+      "image": "/assets/Code-Quiz.png",
       "description": "Finish the quiz before time runs out. If you answer a question wrong you will be pentalized. The quiz is based on rock bands debut albums.",
       "utilizes":"HTML,Bootstrap,CSS, and Javascript",
       "github":"https://github.com/garrib10/Code-Quiz",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "name": "Work Day Scheduler",
-      "image": "src/Images/Work-Day-Scheduler.png",
+      "image": "assets/Work-Day-Scheduler.png",
       "description": "Have you ever had trouble planning out your typical work day. Using third-party API's and moment.js, this app will help you keep your busy schedule planned out by every work hour.",
       "utilizes":"HTML,CSS,Javascript,API, and moment.js",
       "github":"https://github.com/garrib10/Work-Day-Scheduler",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Eat-A-Burger",
-      "image": "src/Images/Eat-A-Burger.png",
+      "image": "assets/Eat-A-Burger.png",
       "description": "Eat-A-Burger is a restaurant application that lets users input the name of burgers they would like to eat. Each burger in the waiting area has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.",
       "utilizes":"Bootstrap,CSS,DOTENV,Express,Express-handlebars,JawsDB,Jquery,MySql,Node.js, and ORM",
       "github":"https://github.com/garrib10/Eat-A-Burger",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "name": "Note Taker",
-      "image": "src/Images/Note-Taker.png",
+      "image": "assets/Note-Taker.png",
       "description": "Note Taker allows the user to write,save, and delete notes that are created in the application. If you reload the page, you will be able to see the notes you have created as well.",
       "utilizes":"HTML,CSS,Javascript,Express,MySql, Node.js, FS, and Inquirer.",
       "github":"https://github.com/garrib10/Note-Taker",

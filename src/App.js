@@ -4,7 +4,7 @@ import { BrowserRouter as Router,Route,Switch } from "react-router-dom";
 import Nav from "./Component/Nav";
 import Footer from "./Component/Footer"
 import About from "./Pages/About"
-import Portfolio from "./Pages/Portfolio"
+import Portfolio from "./Pages/Portfolio/Portfolio"
 import Contact from "./Pages/Contact"
 
 
