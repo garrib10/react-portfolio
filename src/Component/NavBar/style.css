@@ -9,10 +9,9 @@ header {
 header h1 {
   display: inline-block;
   font-family: "Kaushan Script";
-  font-size: 40px;
-  margin-right:750px;
-  padding-bottom: -20px;
-  
+  font-size: 48px;
+  margin-left: 20px; 
+  margin-right: 20px; 
 }
 
 header nav {
@@ -43,11 +42,13 @@ a.nav-link {
 }
 
 header a:hover {
-  color: black;
+  color: rgb(1, 11, 26);
 }
 
 @media screen and (max-width: 1100px) {
-
+  #about-image {
+      max-height: 60px;
+  }
   body {
       padding: 10px;
   } 
@@ -55,7 +56,9 @@ header a:hover {
 }
 
 @media screen and (max-width: 1000px) {
- 
+  #about-image {
+      max-height: 50px;
+  }
   #feature {
       padding: 10px;
   }
@@ -72,11 +75,11 @@ header a:hover {
 
 @media screen and (max-width: 945px) {
   header {
-      text-align: left;
+      text-align: center;
       margin:0;
   }    
   header nav {
-      text-align: left;
+      text-align: center;
       float: none;
       margin-right:auto;
       margin-left:auto;
@@ -99,3 +102,6 @@ header a:hover {
       padding-right: 0;
   }
 }
+
+
+
