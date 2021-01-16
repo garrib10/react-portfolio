@@ -16,17 +16,20 @@ class Portfolio extends Component {
         return (
             <div id="portfolioRoot">
 
-                <main className="mainTop">
-                    <div className="container-fluid">
+                <main className="main">
+                    <div className="container">
 
 
-                        <div className="row articleHeading" >
-                            <div className="col-md-12">
+                        <div className="row " >
+                            <div className="col-md-4">
 
                             </div>
                         </div>
                         <div>
-                            <div id="portfolioRoot" className="page-header"></div>
+                            <div id="portfolioRoot" className="row">
+                                <div className="col-md-4"></div>
+                                
+                            </div>
                             <Wrapper>
                                 {Projects.map(project => (
                                     <Project
