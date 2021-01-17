@@ -1,9 +1,8 @@
 import React from "react";
-
 import Container from "../Component/Container";
 import Row from "../Component/Row";
 import Col from "../Component/Col";
-import AboutMe from "../Component/AboutMe";
+import AboutCard from "../Component/AboutCard"
 
 function About() {
   return (
@@ -18,9 +17,10 @@ function About() {
         <Row>
           <Col size="md-12">
             <br></br>
-            <AboutMe>
-
-            </AboutMe>
+            <br></br>
+            <br></br>
+            <br></br>
+           <AboutCard/>
           </Col>
         </Row>
       </Container>
