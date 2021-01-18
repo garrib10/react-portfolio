@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Boxoffice Media",
-      "image": "./assets/Box-Office-Media.png",
+      "image": "/assets/Box-Office-Media.png",
       "description": "Trying to find the best movies and tv shows to watch during your week. With Boxoffice Media, you are able to search for your favorite movies and tv shows with just a click of a button.",
       "utilizes":"HTML,CSS,API,AJAX,Jquery,Javascript, Foundation Formatting.",
       "github":"https://github.com/0216johnsoneric/Boxoffice-Movies",

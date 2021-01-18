@@ -1,7 +1,7 @@
 import React from "react"
 import Card from 'react-bootstrap/Card'
 import AboutMe from "../AboutMe"
-//import Image from "../../assets/About-Me.png"
+//import Image from "../../../public/assets/About-Me.png"
 
 
 function AboutCard  (){

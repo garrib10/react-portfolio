@@ -11,7 +11,7 @@ function ContactForm() {
                 <Form.Group  controlId="formGridName">
                     <Form.Label>Name</Form.Label>
                     <Form.Control type="Name" placeholder="Enter name"
-                        id="name" class="form-text">We'll never share your info with anyone. /</Form.Control>
+                        id="name" className="form-text">We'll never share your info with anyone. /</Form.Control>
                 </Form.Group>
 
                 <Form.Group  controlId="formGridEmail">
