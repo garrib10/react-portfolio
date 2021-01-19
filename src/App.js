@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-
 import Footer from "./Component/Footer"
 import About from "./Pages/About"
 import Portfolio from "./Pages/Portfolio/Portfolio"
-import Contact from "./Pages/Contact"
+import Contact from "./Pages/Contact/Contact"
 import Header from "./Component/Header"
 
 
