@@ -20,7 +20,8 @@ function AboutMe() {
           here are the some of them.
           </p>
           <div>
-            <p><u> Skills:</u>
+            <p><u> Skills:</u> 
+            <br></br>
               <Badge pill variant="primary">API</Badge>
               <Badge pill variant="primary"> AJAX </Badge>
               <Badge pill variant="primary">Bootstrap</Badge>
