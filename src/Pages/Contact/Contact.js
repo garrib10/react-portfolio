@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import ContactCard from "../../Component/ContactCard";
 import contacts from "../../contact.json";
-import "./style.css"
 
 
 class Contact extends Component {
@@ -43,6 +42,7 @@ class Contact extends Component {
                   />
                 ))}
               </div>
+<<<<<<< HEAD
              <br></br>
              <br></br>
              <br></br>
@@ -53,17 +53,19 @@ class Contact extends Component {
               <div className="row justify" id="feature">
 
                 <h5 id="phone">Phone: 860-331-7857</h5>
+=======
+>>>>>>> parent of dd49dfe... final touches for now
 
-              </div>
             </article>
-
-
-
-            </div>
+          </div>
         </main>
-  
+
       </div>
-      
+            
+
+
+
+         
     );
   }
 }
