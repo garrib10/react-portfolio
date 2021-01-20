@@ -96,9 +96,11 @@ At a minimum, your portfolio should include the following:
 * **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
 
 
-### Updated LinkedIn Profile 
+### LinkedIn Profile & Github Profile
 
-Linkedin Profile Link: 
+Linkedin  www.linkedin.com/in/briangarrity26
+
+Github: https://github.com/garrib10 
 
 ## Screenshots
 
