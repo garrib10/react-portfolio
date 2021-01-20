@@ -1,35 +1,60 @@
-import React from 'react';
+import React, { Component } from "react";
 import ContactCard from "../../Component/ContactCard";
-import Col from "../../Component/Col";
-import Row from "../../Component/Row";
-import Container from "../../Component/Container"
+import contacts from "../../contact.json";
 
 
+class Contact extends Component {
+
+  state = {
+    contacts
+  };
+
+  render() {
+    return (
+      <div id="contactRoot">
+        <br></br>
+        <br></br>
+        <br></br>
 
 
+        <main className="mainTop">
+          <div className="container-fluid">
+            <article className="socialmedia">
 
-function Contact() {
-  return (
-    <div>
-      <Container style={{ marginTop: 70, marginBottom: 40 }}>
-        <Row>
-          <Col size="md-12">
+              <div className="row articleHeading">
+                <div className="col-12"><h3>Follow Me</h3></div>
+              </div>
+
+              <div className="row justify" id="feature">
+
+                {this.state.contacts.map(contact => (
+
+                  <ContactCard
+
+                    id={contact.id}
+                    key={contact.id}
+                    name={contact.name}
+                    reference={contact.reference}
+                    image={contact.image}
+                    alt={contact.alt}
+                    title={contact.title}
+
+                  />
+                ))}
+              </div>
+
+            </article>
+          </div>
+        </main>
+
+      </div>
             
-      <br></br>
-      <br></br>
-      <ContactCard />
-      </Col>
-      </Row>
-      </Container>
-    </div>
 
 
-  )
 
-
+         
+    );
+  }
 }
 
 export default Contact;
-
-
-

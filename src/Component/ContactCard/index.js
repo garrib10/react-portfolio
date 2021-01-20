@@ -1,21 +1,22 @@
 import React from 'react';
-import Card from 'react-bootstrap/Card'
-import Contact from "../Contact"
+import "./style.css";
 
 
 
 
-function ContactCard() {
-   return (
-    <Card style={{ width: '60rem',
-    height: '45rem' }}>
-    <Card.Body>
-      <Card.Text>
-        <Contact/>
-      </Card.Text>
-      </Card.Body>
-  </Card>
-    )
+function ContactCard(props) {
+  return (
+    <div>
+
+      <div className="content">
+        <a href={props.reference} target="_blank" rel="noopener noreferrer">
+          <img id="social" src={props.image} alt={props.alt} title={props.title} />
+        </a>
+      </div>
+
+
+    </div>
+  );
 }
 
 export default ContactCard;
