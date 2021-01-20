@@ -1,0 +1,76 @@
+#portfolioRoot {
+    margin: 0;
+} 
+
+#portfolioheading {
+    width:100%;
+}
+
+.page-header {
+    width:100%;
+    margin: 0;
+    padding: 0px;
+    margin-bottom: 20px;
+}
+
+#main {
+    background-color: #eeeeee;
+    float: left;
+    width: 33%;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+} 
+
+
+#button {
+    margin-bottom: 10px;
+}
+
+.main { 
+    margin-top:140px;
+}
+
+@media screen and (max-width: 950px) {
+    #portfolioRoot { 
+        margin-top: 180px;
+    }
+}  
+
+@media screen and (max-width: 900px) {
+    .card { 
+        width: 14em;
+        padding-bottom: 5px;
+    }
+    .portfolioButton {
+        margin: 1px;
+        padding: 1px;
+        width: 5em;
+        display: inline-flex;
+    }
+  
+}  
+@media screen and (max-width: 900px) {
+    .card { 
+        width: 12em;
+    }
+}  
+@media screen and (max-width: 700px) {
+    .card { 
+        width: 10em;
+    }
+    .portfolioh2 {
+        margin-top: 0.5em;
+        margin-bottom: 1em;
+    }
+    .portfolioButton {
+        width: 4.8em;
+        font-size: 0.8em;
+    }
+  
+}  
+
+
