@@ -2,9 +2,7 @@
 
 # Unit 20 React Homework: React Portfolio
 
-Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
+For our last homework assignment, we were told to recreate our portfolio page using React. For this assignment, I created an About,Portfolio, and Contact page for my application. With each page you will see different card components with valuable information into it. I did have trouble with the gh-pages at the end and couldn't load my pictures, or my build was pushed to Github so I decided to give a heroku link for now so you can see the product for what it is. Also, it solves the issue for when I want to add changes that I couldn't do before to make my portfolio better. 
 
 ## Requirements
 
@@ -96,9 +94,13 @@ At a minimum, your portfolio should include the following:
 * **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
 
 
-### Updated LinkedIn Profile 
+###  Links
 
-Linkedin Profile Link: 
+Linkedin Link: www.linkedin.com/in/briangarrity26
+
+Github Link: https://github.com/garrib10/react-portfolio
+
+Heroku Link: https://hidden-shelf-91424.herokuapp.com/ 
 
 ## Screenshots
 
