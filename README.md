@@ -96,11 +96,11 @@ At a minimum, your portfolio should include the following:
 
 ###  Links
 
-Linkedin Link: www.linkedin.com/in/briangarrity26
+Linkedin: www.linkedin.com/in/briangarrity26
 
-Github Link: https://github.com/garrib10/react-portfolio
+Github: https://github.com/garrib10/react-portfolio
 
-Heroku Link: https://hidden-shelf-91424.herokuapp.com/ 
+Heroku: https://hidden-shelf-91424.herokuapp.com/ 
 
 ## Screenshots
 
