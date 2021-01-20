@@ -98,6 +98,13 @@ At a minimum, your portfolio should include the following:
 
 ### Updated LinkedIn Profile 
 
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+Linkedin Profile Link: 
 
 ## Screenshots
+
+<img width="1440" alt="Screen Shot 2021-01-19 at 10 58 20 PM" src="https://user-images.githubusercontent.com/68867054/105125289-0a60fa80-5aaa-11eb-833f-297677811c2e.png">
+
+<img width="1438" alt="Screen Shot 2021-01-19 at 10 58 32 PM" src="https://user-images.githubusercontent.com/68867054/105125311-19e04380-5aaa-11eb-9342-15a8e8c13f1d.png">
+
+
+<img width="1440" alt="Screen Shot 2021-01-19 at 10 58 40 PM" src="https://user-images.githubusercontent.com/68867054/105125328-24024200-5aaa-11eb-9240-006b364f5b90.png">

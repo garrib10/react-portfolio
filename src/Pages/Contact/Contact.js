@@ -47,7 +47,7 @@ class Contact extends Component {
              <br></br>
              <br></br>
               <div className="row articleHeading">
-                <div className="col-12"><h3>Or Give Me a Call</h3></div>
+                <div className="col-12"><h3> Give Me a Call</h3></div>
               </div>
 
               <div className="row justify" id="feature">
