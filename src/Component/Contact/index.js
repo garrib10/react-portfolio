@@ -7,47 +7,48 @@ function Contact() {
                 <div>
                     <h1>Contact Me</h1>
                 </div>
+                
 
-                <div id="email-icon" className="icon">
-                    <h3 className="fa-align-centerr">Email</h3>
-                    <a href="mailto:garrib10@gmail.com"><i
-                        className="fa fa-envelope-o fa-5x fa-align-centerr"
-                        aria-hidden="true"
-                    ></i>My Email</a>
-                </div>
-                <div id="resume-icon" className="icon">
-                    <h3 className="fa-align-centerr">Resume</h3>
-                    <a href="https://docs.google.com/document/d/1gcNMeLkQet_GUg4J4n8ur233EdAXZiGUi3Av-Y8z7lk/edit?usp=sharing"
-                    ><i
-                        className="fas fa-file fa-5x fa-align-centerr"
-                        aria-hidden="true"
-                    ></i>My Resume</a>
-                    <div id="github-icon" className="icon">
-                        <h3 className="fa-align-centerr">Github</h3>
-                        <a href="https://github.com/garrib10"
-                        ><i
-                            className="fa fa-github fa-5x fa-align-centerr"
+                    <div id="email-icon" className="icon">
+                        <h3 className="fa-align-center">Email</h3>
+                        <a href="mailto:garrib10@gmail.com"><i
+                            className="fa fa-envelope-o fa-5x fa-align-centerr"
                             aria-hidden="true"
-                        ></i>My Github</a>
+                        ></i>My Email</a>
                     </div>
-                    <div id="linkedin-icon" className="icon">
-                        <h3 className="fa-align-centerr">LinkedIn!</h3>
-                        <a href="https://www.linkedin.com/in/briangarrity26/"
+                    <div id="resume-icon" className="icon">
+                        <h3 className="fa-align-center">Resume</h3>
+                        <a href="https://docs.google.com/document/d/1gcNMeLkQet_GUg4J4n8ur233EdAXZiGUi3Av-Y8z7lk/edit?usp=sharing"
                         ><i
-                            className="fa fa-linkedin-square fa-5x fa-align-centerr"
+                            className="fas fa-file fa-5x "
                             aria-hidden="true"
-                        ></i>My LinkedIn</a>
-                    </div>
-                    <div id="dribble-icon" className="icon">
-                        <h3 className="fa-align-centerr">Dribble</h3>
-                        <a href="https://dribbble.com/BGarrity26"
-                        ><i
-                            className="fas fa-basketball-ball fa-5x fa-align-centerr"
-                            aria-hidden="true"
-                        ></i>My Dribble</a>
-                    </div>
+                        ></i>My Resume</a>
+                        <div id="github-icon" className="icon">
+                            <h3 className="fa-align-center">Github</h3>
+                            <a href="https://github.com/garrib10"
+                            ><i
+                                className="fa fa-github fa-5x "
+                                aria-hidden="true"
+                            ></i>My Github</a>
+                        </div>
+                        <div id="linkedin-icon" className="icon">
+                            <h3 className="fa-align-center">LinkedIn!</h3>
+                            <a href="https://www.linkedin.com/in/briangarrity26/"
+                            ><i
+                                className="fa fa-linkedin-square fa-5x fa-align-centerr"
+                                aria-hidden="true"
+                            ></i>My LinkedIn</a>
+                        </div>
+                        <div id="dribble-icon" className="icon">
+                            <h3 className="fa-align-center">Dribble</h3>
+                            <a href="https://dribbble.com/BGarrity26"
+                            ><i
+                                className="fas fa-basketball-ball fa-5x fa-align-centerr"
+                                aria-hidden="true"
+                            ></i>My Dribble</a>
+                        </div>
 
-                </div>
+                    </div>
             </section>
         </div>
 

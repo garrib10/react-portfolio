@@ -7,7 +7,7 @@ import Contact from "../Contact"
 
 function ContactCard() {
    return (
-    <Card style={{ width: '80rem',
+    <Card style={{ width: '60rem',
     height: '45rem' }}>
     <Card.Body>
       <Card.Text>
