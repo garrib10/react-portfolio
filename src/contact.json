@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Github",
       "reference": "https://github.com/garrib10",
-      "image": "fa fa-github ",
+      "image": "/assets/github.png",
       "alt": "Github link",
       "title": "Github link"
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "name": "LinkedIn",
       "reference": "https://www.linkedin.com/in/briangarrity26/",
-      "image": "/assets/socialmedia/LinkedIn-gray.png",
+      "image": "/assets/linkedin.png",
       "alt": "LinkedIn link",
       "title": "LinkedIn link"
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "Email",
       "reference": "mailto:garrib10@gmail.com",
-      "image": "/assets/socialmedia/Email-gray.png",
+      "image": "/assets/email.png",
       "alt": "Email link",
       "title": "Email link"
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "name": "Resume",
       "reference": "https://docs.google.com/document/d/1gcNMeLkQet_GUg4J4n8ur233EdAXZiGUi3Av-Y8z7lk/edit?usp=sharing",
-      "image": "/assets/socialmedia/Facebook-gray.png",
+      "image": "/assets/document.png",
       "alt": "Resume link",
       "title": "Resume link"
     },
@@ -35,7 +35,7 @@
       "id": 5,
       "name": "Dribble",
       "reference": "https://dribbble.com/BGarrity26",
-      "image": "/assets/socialmedia/Instagram-gray.png",
+      "image": "/assets/dribble.png",
       "alt": "Dribble link",
       "title": "Dribble link"
     }
